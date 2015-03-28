@@ -1,0 +1,14 @@
+..\..\Backoff.h
+..\..\BoundedMPMCQueue.h
+..\..\CAS.h
+..\..\DEQueue.h
+..\..\Gate.h
+..\..\LockFreeDEQueue.h
+..\..\LockFreeQueue.h
+..\..\LockFreeStack.h
+..\..\RelacyWrappers.h
+..\..\SpinMutex.cpp
+..\..\SpinMutex.h
+..\..\SPMCQueue.h
+..\..\SPSCQueue.h
+..\..\StampedVar.h
